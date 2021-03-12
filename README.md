@@ -6,4 +6,4 @@ See the full documentation on the [qbee doc page](https://qbee.io/docs/docker-no
 
 ## Infrastructure 
 
-![infrastructure](https://qbee.io/docs/images/docker-nodered-influx-grafana.svg | width=80)
+![infrastructure](https://qbee.io/docs/images/docker-nodered-influx-grafana.svg)
